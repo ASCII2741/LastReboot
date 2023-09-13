@@ -1,4 +1,6 @@
-
+# ***************************************************************************
+# 								Part to fill
+# ***************************************************************************
 # Set toast text
 # Message for reboot
 $Title = "Your device has not rebooted since"
@@ -11,6 +13,9 @@ $Text_AppName = "NBN IT"
 
 $Show_RestartNow_Button = $True # It will add a button to reboot the device
 
+# ***************************************************************************
+# 								Export picture
+# ***************************************************************************
 # Function to set an action
 Function Set_Action {
     param(
